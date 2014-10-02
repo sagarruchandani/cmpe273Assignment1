@@ -25,7 +25,7 @@ jar {
 }
 
 bootRepackage {
-    mainClass = 'wallet.digitalWalletApp'
+    mainClass = 'wallet.DigitalWalletApp'
 }
 
 repositories {
